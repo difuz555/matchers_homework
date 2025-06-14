@@ -1,4 +1,4 @@
-import healthSort from "../healthsorting";
+import healthSort from "../app.js";
 
 const dataList = [
     { name: 'ведьма', health: 150 },
